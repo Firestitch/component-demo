@@ -33,13 +33,13 @@
 	//if(!$branch)
 	//	$branch = shell_exec("cd ../ && git rev-parse --abbrev-ref HEAD");
 
-	$commands = [ 'echo $PWD',
+	$commands = [ 	'echo $PWD',
 		            'echo $PATH',
-		           // 'cd ../ && git fetch --all 2>&1',
-		           // 'cd ../ && git reset --hard origin/'.$branch.' 2>&1',
-		           // 'cd ../ && git pull 2>&1',
+		            'git fetch --all 2>&1',
+		            'git reset --hard origin/master 2>&1',
+		            'git pull 2>&1',
 		            'git submodule foreach --recursive git reset --hard 2>&1',
-			    'git submodule update --recursive --remote --init 2>&1',
+			    	'git submodule update --recursive --remote --init 2>&1',
 		            'git status 2>&1'];
 
 ?>

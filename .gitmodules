@@ -4,3 +4,6 @@
 [submodule "list"]
 	path = list
 	url = git@github.com:Firestitch/fs-list.git
+[submodule "checkboxgroup"]
+	path = checkboxgroup
+	url = git@github.com:Firestitch/fs-checkboxgroup.git
