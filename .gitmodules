@@ -6,4 +6,7 @@
 	url = git@github.com:Firestitch/fs-list.git
 [submodule "checkboxgroup"]
 	path = checkboxgroup
-	url = git@github.com:Firestitch/fs-checkboxgroup.git
+	url = git@github.com:Firestitch/fs-checkbox-group.git
+[submodule "radiogroup"]
+	path = radiogroup
+	url = git@github.com:Firestitch/fs-radio-group.git
