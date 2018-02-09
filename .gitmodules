@@ -10,3 +10,6 @@
 [submodule "radiogroup"]
 	path = radiogroup
 	url = git@github.com:Firestitch/fs-radio-group.git
+[submodule "datepicker"]
+	path = datepicker
+	url = git@github.com:Firestitch/fs-datepicker.git
