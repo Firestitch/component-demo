@@ -13,3 +13,6 @@
 [submodule "datepicker"]
 	path = datepicker
 	url = git@github.com:Firestitch/fs-datepicker.git
+[submodule "file"]
+	path = file
+	url = git@github.com:Firestitch/fs-file.git
