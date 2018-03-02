@@ -22,3 +22,6 @@
 [submodule "nav"]
 	path = nav
 	url = git@github.com:Firestitch/fs-nav.git
+[submodule "common"]
+	path = common
+	url = git@github.com:Firestitch/fs-common.git
