@@ -28,3 +28,6 @@
 [submodule "address"]
 	path = address
 	url = git@github.com:Firestitch/fs-address.git
+[submodule "form"]
+	path = form
+	url = git@github.com:Firestitch/fs-form.git
