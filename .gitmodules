@@ -31,3 +31,6 @@
 [submodule "form"]
 	path = form
 	url = git@github.com:Firestitch/fs-form.git
+[submodule "banner"]
+	path = banner
+	url = git@github.com:Firestitch/fs-banner.git
