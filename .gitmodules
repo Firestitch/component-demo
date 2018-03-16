@@ -34,3 +34,6 @@
 [submodule "banner"]
 	path = banner
 	url = git@github.com:Firestitch/fs-banner.git
+[submodule "deploy"]
+	path = deploy
+	url = git@github.com:Firestitch/deploy.git
