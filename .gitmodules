@@ -37,3 +37,6 @@
 [submodule "deploy"]
 	path = deploy
 	url = git@github.com:Firestitch/deploy.git
+[submodule "video"]
+	path = video
+	url = git@github.com:Firestitch/fs-video.git
