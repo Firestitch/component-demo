@@ -40,3 +40,6 @@
 [submodule "video"]
 	path = video
 	url = git@github.com:Firestitch/fs-video.git
+[submodule "api"]
+	path = api
+	url = git@github.com:Firestitch/fs-api.git
