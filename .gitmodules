@@ -46,3 +46,6 @@
 [submodule "message"]
 	path = message
 	url = git@github.com:Firestitch/fs-message.git
+[submodule "chat"]
+	path = chat
+	url = git@github.com:Firestitch/fs-chat.git
