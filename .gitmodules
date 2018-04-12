@@ -43,3 +43,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:Firestitch/fs-api.git
+[submodule "message"]
+	path = message
+	url = git@github.com:Firestitch/fs-message.git
