@@ -52,3 +52,6 @@
 [submodule "date"]
 	path = date
 	url = git@github.com:Firestitch/fs-date.git
+[submodule "iframe"]
+	path = iframe
+	url = git@github.com:Firestitch/fs-iframe.git
