@@ -55,3 +55,6 @@
 [submodule "iframe"]
 	path = iframe
 	url = git@github.com:Firestitch/fs-iframe.git
+[submodule "download"]
+	path = download
+	url = git@github.com:Firestitch/fs-download.git
