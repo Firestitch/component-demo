@@ -58,3 +58,6 @@
 [submodule "download"]
 	path = download
 	url = git@github.com:Firestitch/fs-download.git
+[submodule "transfer"]
+	path = transfer
+	url = git@github.com:Firestitch/fs-transfer.git
