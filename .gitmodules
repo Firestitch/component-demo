@@ -61,3 +61,6 @@
 [submodule "transfer"]
 	path = transfer
 	url = git@github.com:Firestitch/fs-transfer.git
+[submodule "duration"]
+	path = duration
+	url = git@github.com:Firestitch/fs-duration.git
