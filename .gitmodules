@@ -64,3 +64,6 @@
 [submodule "duration"]
 	path = duration
 	url = git@github.com:Firestitch/fs-duration.git
+[submodule "input"]
+	path = input
+	url = git@github.com:Firestitch/fs-input.git
