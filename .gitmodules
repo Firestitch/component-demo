@@ -67,3 +67,6 @@
 [submodule "input"]
 	path = input
 	url = git@github.com:Firestitch/fs-input.git
+[submodule "import"]
+	path = import
+	url = https://github.com/Firestitch/fs-import
