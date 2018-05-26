@@ -67,3 +67,6 @@
 [submodule "input"]
 	path = input
 	url = git@github.com:Firestitch/fs-input.git
+[submodule "selectbutton"]
+	path = selectbutton
+	url = git@github.com:Firestitch/fs-select-button.git
