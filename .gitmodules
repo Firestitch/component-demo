@@ -76,3 +76,6 @@
 [submodule "dialog"]
 	path = dialog
 	url = git@github.com:Firestitch/fs-dialog.git
+[submodule "phone"]
+	path = phone
+	url = git@github.com:Firestitch/fs-phone.git
