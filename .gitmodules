@@ -73,3 +73,6 @@
 [submodule "selectbutton"]
 	path = selectbutton
 	url = git@github.com:Firestitch/fs-select-button.git
+[submodule "dialog"]
+	path = dialog
+	url = git@github.com:Firestitch/fs-dialog.git
