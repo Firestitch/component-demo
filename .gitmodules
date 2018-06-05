@@ -88,3 +88,6 @@
 [submodule "select"]
 	path = select
 	url = https://github.com/Firestitch/fs-select
+[submodule "filter"]
+	path = filter
+	url = https://github.com/Firestitch/fs-filter.git
