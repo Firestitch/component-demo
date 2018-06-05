@@ -85,3 +85,6 @@
 [submodule "autocomplete"]
 	path = autocomplete
 	url = https://github.com/Firestitch/fs-autocomplete
+[submodule "select"]
+	path = select
+	url = https://github.com/Firestitch/fs-select
