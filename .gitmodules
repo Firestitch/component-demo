@@ -94,3 +94,6 @@
 [submodule "toggle"]
 	path = toggle
 	url = git@github.com:Firestitch/fs-toggle.git
+[submodule "link"]
+	path = link
+	url = git@github.com:Firestitch/fs-link.git
