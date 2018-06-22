@@ -100,3 +100,6 @@
 [submodule "password"]
 	path = password
 	url = git@github.com:Firestitch/fs-password.git
+[submodule "scroll"]
+	path = scroll
+	url = git@github.com:Firestitch/fs-scroll.git
