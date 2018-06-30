@@ -103,3 +103,6 @@
 [submodule "scroll"]
 	path = scroll
 	url = git@github.com:Firestitch/fs-scroll.git
+[submodule "responsive"]
+	path = responsive
+	url = git@github.com:Firestitch/fs-responsive.git
