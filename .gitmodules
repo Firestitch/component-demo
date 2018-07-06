@@ -106,3 +106,6 @@
 [submodule "responsive"]
 	path = responsive
 	url = git@github.com:Firestitch/fs-responsive.git
+[submodule "editor"]
+	path = editor
+	url = git@github.com:Firestitch/fs-editor.git
