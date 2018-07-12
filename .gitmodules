@@ -109,3 +109,6 @@
 [submodule "editor"]
 	path = editor
 	url = git@github.com:Firestitch/fs-editor.git
+[submodule "meta"]
+	path = meta
+	url = git@github.com:Firestitch/fs-meta.git
