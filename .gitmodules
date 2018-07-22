@@ -112,3 +112,6 @@
 [submodule "meta"]
 	path = meta
 	url = git@github.com:Firestitch/fs-meta.git
+[submodule "connection"]
+	path = connection
+	url = git@github.com:Firestitch/fs-connection.git
