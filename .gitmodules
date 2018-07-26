@@ -115,3 +115,6 @@
 [submodule "connection"]
 	path = connection
 	url = git@github.com:Firestitch/fs-connection.git
+[submodule "prompt"]
+	path = prompt
+	url = git@github.com:Firestitch/fs-prompt.git
