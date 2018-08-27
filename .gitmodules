@@ -118,3 +118,6 @@
 [submodule "prompt"]
 	path = prompt
 	url = git@github.com:Firestitch/fs-prompt.git
+[submodule "flipbook"]
+	path = flipbook
+	url = git@github.com:Firestitch/flipbook.git
