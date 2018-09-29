@@ -121,3 +121,6 @@
 [submodule "flipbook"]
 	path = flipbook
 	url = git@github.com:Firestitch/flipbook.git
+[submodule "sidenav"]
+	path = sidenav
+	url = git@github.com:Firestitch/fs-sidenav.git
