@@ -124,3 +124,6 @@
 [submodule "sidenav"]
 	path = sidenav
 	url = git@github.com:Firestitch/fs-sidenav.git
+[submodule "gallery"]
+	path = gallery
+	url = git@github.com:Firestitch/fs-gallery.git
