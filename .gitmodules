@@ -127,3 +127,6 @@
 [submodule "gallery"]
 	path = gallery
 	url = git@github.com:Firestitch/fs-gallery.git
+[submodule "menu"]
+	path = menu
+	url = git@github.com:Firestitch/fs-menu.git
