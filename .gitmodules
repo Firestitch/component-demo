@@ -130,3 +130,6 @@
 [submodule "menu"]
 	path = menu
 	url = git@github.com:Firestitch/fs-menu.git
+[submodule "skeleton"]
+	path = skeleton
+	url = git@github.com:Firestitch/fs-skeleton.git
