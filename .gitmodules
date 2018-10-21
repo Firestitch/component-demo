@@ -136,3 +136,6 @@
 [submodule "upload"]
 	path = upload
 	url = git@github.com:Firestitch/ngx-upload.git
+[submodule "iconpicker"]
+	path = iconpicker
+	url = git@github.com:Firestitch/ngx-icon-picker.git
