@@ -133,3 +133,6 @@
 [submodule "skeleton"]
 	path = skeleton
 	url = git@github.com:Firestitch/fs-skeleton.git
+[submodule "upload"]
+	path = upload
+	url = git@github.com:Firestitch/ngx-upload.git
