@@ -139,3 +139,6 @@
 [submodule "iconpicker"]
 	path = iconpicker
 	url = git@github.com:Firestitch/ngx-icon-picker.git
+[submodule "formeditor"]
+	path = formeditor
+	url = git@github.com:Firestitch/ngx-form-editor.git
