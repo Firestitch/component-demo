@@ -142,3 +142,6 @@
 [submodule "formeditor"]
 	path = formeditor
 	url = git@github.com:Firestitch/ngx-form-editor.git
+[submodule "bulk"]
+	path = bulk
+	url = git@github.com:Firestitch/ngx-bulk.git
