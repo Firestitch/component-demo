@@ -18,7 +18,7 @@
 	url = git@github.com:Firestitch/fs-badge.git
 [submodule "file"]
 	path = file
-	url = git@github.com:Firestitch/fs-file.git
+	url = git@github.com:Firestitch/ngx-file.git
 [submodule "nav"]
 	path = nav
 	url = git@github.com:Firestitch/fs-nav.git
