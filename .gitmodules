@@ -145,3 +145,6 @@
 [submodule "bulk"]
 	path = bulk
 	url = git@github.com:Firestitch/ngx-bulk.git
+[submodule "selection"]
+	path = selection
+	url = git@github.com:Firestitch/ngx-selection.git
