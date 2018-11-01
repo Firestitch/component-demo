@@ -145,3 +145,6 @@
 [submodule "selection"]
 	path = selection
 	url = git@github.com:Firestitch/ngx-selection.git
+[submodule "imageeditor"]
+	path = imageeditor
+	url = git@github.com:Firestitch/ngx-image-editor.git
