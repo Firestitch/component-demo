@@ -148,3 +148,6 @@
 [submodule "imageeditor"]
 	path = imageeditor
 	url = git@github.com:Firestitch/ngx-image-editor.git
+[submodule "colorpicker"]
+	path = colorpicker
+	url = git@github.com:Firestitch/ngx-color-picker.git
