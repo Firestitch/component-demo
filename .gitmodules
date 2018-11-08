@@ -151,3 +151,6 @@
 [submodule "colorpicker"]
 	path = colorpicker
 	url = git@github.com:Firestitch/ngx-color-picker.git
+[submodule "clear"]
+	path = clear
+	url = git@github.com:Firestitch/ngx-clear.git
