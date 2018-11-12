@@ -154,3 +154,6 @@
 [submodule "clear"]
 	path = clear
 	url = git@github.com:Firestitch/ngx-clear.git
+[submodule "drawer"]
+	path = drawer
+	url = git@github.com:Firestitch/ngx-drawer.git
