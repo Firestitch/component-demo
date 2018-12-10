@@ -157,3 +157,6 @@
 [submodule "drawer"]
 	path = drawer
 	url = git@github.com:Firestitch/ngx-drawer.git
+[submodule "progress"]
+	path = progress
+	url = git@github.com:Firestitch/ngx-progress.git
