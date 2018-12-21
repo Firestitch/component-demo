@@ -163,3 +163,9 @@
 [submodule "label"]
 	path = label
 	url = git@github.com:Firestitch/ngx-label.git
+[submodule "model"]
+	path = model
+	url = git@github.com:Firestitch/ngx-model.git
+[submodule "zoompan"]
+	path = zoompan
+	url = git@github.com:Firestitch/ngx-zoom-pan.git
