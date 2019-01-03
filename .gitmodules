@@ -169,3 +169,6 @@
 [submodule "zoompan"]
 	path = zoompan
 	url = git@github.com:Firestitch/ngx-zoom-pan.git
+[submodule "fieldeditor"]
+	path = fieldeditor
+	url = git@github.com:Firestitch/ngx-field-editor.git
