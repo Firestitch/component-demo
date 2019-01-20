@@ -172,3 +172,6 @@
 [submodule "fieldeditor"]
 	path = fieldeditor
 	url = git@github.com:Firestitch/ngx-field-editor.git
+[submodule "tree"]
+	path = tree
+	url = git@github.com:Firestitch/ngx-tree.git
