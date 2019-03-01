@@ -175,3 +175,6 @@
 [submodule "tree"]
 	path = tree
 	url = git@github.com:Firestitch/ngx-tree.git
+[submodule "legend"]
+	path = legend
+	url = git@github.com:Firestitch/ngx-legend.git
