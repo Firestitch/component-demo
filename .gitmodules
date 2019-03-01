@@ -178,3 +178,6 @@
 [submodule "legend"]
 	path = legend
 	url = git@github.com:Firestitch/ngx-legend.git
+[submodule "attribute"]
+	path = attribute
+	url = git@github.com:Firestitch/ngx-attribute.git
