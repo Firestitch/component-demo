@@ -181,3 +181,6 @@
 [submodule "attribute"]
 	path = attribute
 	url = git@github.com:Firestitch/ngx-attribute.git
+[submodule "chip"]
+	path = chip
+	url = git@github.com:Firestitch/ngx-chip.git
