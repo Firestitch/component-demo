@@ -184,3 +184,6 @@
 [submodule "chip"]
 	path = chip
 	url = git@github.com:Firestitch/ngx-chip.git
+[submodule "accountpicker"]
+	path = accountpicker
+	url = git@github.com:Firestitch/ngx-account-picker.git
