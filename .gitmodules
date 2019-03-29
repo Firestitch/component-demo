@@ -187,3 +187,6 @@
 [submodule "accountpicker"]
 	path = accountpicker
 	url = git@github.com:Firestitch/ngx-account-picker.git
+[submodule "texteditor"]
+	path = texteditor
+	url = git@github.com:Firestitch/ngx-text-editor.git
