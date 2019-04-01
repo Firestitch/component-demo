@@ -190,3 +190,6 @@
 [submodule "texteditor"]
 	path = texteditor
 	url = git@github.com:Firestitch/ngx-text-editor.git
+[submodule "accountstatus"]
+	path = accountstatus
+	url = git@github.com:Firestitch/ngx-account-status.git
