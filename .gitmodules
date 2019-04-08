@@ -193,3 +193,6 @@
 [submodule "accountstatus"]
 	path = accountstatus
 	url = git@github.com:Firestitch/ngx-account-status.git
+[submodule "signinsecurity"]
+	path = signinsecurity
+	url = git@github.com:Firestitch/ngx-signin-security.git
