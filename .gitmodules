@@ -199,3 +199,6 @@
 [submodule "rating"]
 	path = rating
 	url = git@github.com:Firestitch/ngx-rating.git
+[submodule "map"]
+	path = map
+	url = git@github.com:Firestitch/ngx-map.git
