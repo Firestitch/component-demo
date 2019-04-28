@@ -202,3 +202,6 @@
 [submodule "map"]
 	path = map
 	url = git@github.com:Firestitch/ngx-map.git
+[submodule "truncate"]
+	path = truncate
+	url = git@github.com:Firestitch/ngx-truncate.git
