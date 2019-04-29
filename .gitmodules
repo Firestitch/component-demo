@@ -205,3 +205,6 @@
 [submodule "truncate"]
 	path = truncate
 	url = git@github.com:Firestitch/ngx-truncate.git
+[submodule "modelchange"]
+	path = modelchange
+	url = git@github.com:Firestitch/ngx-model-change.git
