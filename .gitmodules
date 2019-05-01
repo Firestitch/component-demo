@@ -211,3 +211,6 @@
 [submodule "tab"]
 	path = tab
 	url = git@github.com:Firestitch/ngx-tab.git
+[submodule "wizard"]
+	path = wizard
+	url = git@github.com:Firestitch/ngx-wizard.git
