@@ -208,3 +208,6 @@
 [submodule "modelchange"]
 	path = modelchange
 	url = git@github.com:Firestitch/ngx-model-change.git
+[submodule "tab"]
+	path = tab
+	url = git@github.com:Firestitch/ngx-tab.git
