@@ -214,3 +214,6 @@
 [submodule "wizard"]
 	path = wizard
 	url = git@github.com:Firestitch/ngx-wizard.git
+[submodule "pane"]
+	path = pane
+	url = git@github.com:Firestitch/ngx-pane.git
