@@ -220,3 +220,6 @@
 [submodule "share"]
 	path = share
 	url = git@github.com:Firestitch/ngx-share.git
+[submodule "scrollbar"]
+	path = scrollbar
+	url = git@github.com:Firestitch/ngx-scrollbar.git
