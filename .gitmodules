@@ -223,3 +223,6 @@
 [submodule "scrollbar"]
 	path = scrollbar
 	url = git@github.com:Firestitch/ngx-scrollbar.git
+[submodule "scrollpicker"]
+	path = scrollpicker
+	url = git@github.com:Firestitch/ngx-scroll-picker.git
