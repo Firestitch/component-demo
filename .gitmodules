@@ -226,3 +226,6 @@
 [submodule "scrollpicker"]
 	path = scrollpicker
 	url = git@github.com:Firestitch/ngx-scroll-picker.git
+[submodule "payment"]
+	path = payment
+	url = git@github.com:Firestitch/ngx-payment.git
