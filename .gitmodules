@@ -232,3 +232,6 @@
 [submodule "mask"]
 	path = mask
 	url = git@github.com:Firestitch/ngx-mask.git
+[submodule "acl"]
+	path = acl
+	url = git@github.com:Firestitch/ngx-acl.git
