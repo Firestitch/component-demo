@@ -235,3 +235,6 @@
 [submodule "acl"]
 	path = acl
 	url = git@github.com:Firestitch/ngx-acl.git
+[submodule "tile"]
+	path = tile
+	url = git@github.com:Firestitch/ngx-tile.git
