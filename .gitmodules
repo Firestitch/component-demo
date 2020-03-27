@@ -238,3 +238,6 @@
 [submodule "tile"]
 	path = tile
 	url = git@github.com:Firestitch/ngx-tile.git
+[submodule "popover"]
+	path = popover
+	url = git@github.com:Firestitch/ngx-popover.git
