@@ -241,3 +241,6 @@
 [submodule "popover"]
 	path = popover
 	url = git@github.com:Firestitch/ngx-popover.git
+[submodule "diagram"]
+	path = diagram
+	url = git@github.com:Firestitch/ngx-diagram.git
