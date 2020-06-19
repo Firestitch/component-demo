@@ -244,3 +244,6 @@
 [submodule "diagram"]
 	path = diagram
 	url = git@github.com:Firestitch/ngx-diagram.git
+[submodule "style"]
+	path = style
+	url = git@github.com:Firestitch/ngx-style.git
