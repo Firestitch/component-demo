@@ -247,6 +247,3 @@
 [submodule "style"]
 	path = style
 	url = git@github.com:Firestitch/ngx-style.git
-[submodule "html-editor"]
-	path = html-editor
-	url = git@github.com:Firestitch/ngx-html-editor.git
