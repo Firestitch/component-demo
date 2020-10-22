@@ -250,3 +250,6 @@
 [submodule "htmleditor"]
 	path = htmleditor
 	url = git@github.com:Firestitch/ngx-html-editor.git
+[submodule "blockeditor"]
+	path = blockeditor
+	url = git@github.com:Firestitch/ngx-block-editor.git
