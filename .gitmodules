@@ -253,3 +253,6 @@
 [submodule "blockeditor"]
 	path = blockeditor
 	url = git@github.com:Firestitch/ngx-block-editor.git
+[submodule "signature"]
+	path = signature
+	url = git@github.com:Firestitch/ngx-signature.git
