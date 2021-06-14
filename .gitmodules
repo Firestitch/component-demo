@@ -256,3 +256,6 @@
 [submodule "signature"]
 	path = signature
 	url = git@github.com:Firestitch/ngx-signature.git
+[submodule "buttontoggle"]
+	path = buttontoggle
+	url = git@github.com:Firestitch/ngx-button-toggle.git
