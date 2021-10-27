@@ -259,3 +259,6 @@
 [submodule "buttontoggle"]
 	path = buttontoggle
 	url = git@github.com:Firestitch/ngx-button-toggle.git
+[submodule "tabs"]
+	path = tabs
+	url = git@github.com:Firestitch/ngx-tabs.git
